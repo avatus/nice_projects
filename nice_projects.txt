@@ -1,0 +1,5 @@
+https://github.com/electronicarts/CnC_Remastered_Collection
+https://github.com/microsoft/Reactors
+https://github.com/labuladong/fucking-algorithm
+https://github.com/ossu/computer-science
+https://github.com/corretto/corretto-11
